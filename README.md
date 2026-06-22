@@ -109,10 +109,12 @@ Increase focus on top-performing product categories.
 Target high-spending customer segments through personalized marketing campaigns.
 Promote premium shipping options to increase average order value.
 
-Repository Structure
+## Repository Structure
+
+```text
 Customer-Shopping-Behavior-Analysis/
 │
-├── Dataset/
+├── Data/
 │   └── customer_shopping_behavior.csv
 │
 ├── Python/
@@ -121,18 +123,18 @@ Customer-Shopping-Behavior-Analysis/
 ├── SQL/
 │   └── customer_behaviour.sql
 │
-├── Dashboard/
+├── Power BI/
 │   └── Customer_Shopping_behaviour.pbix
 │
 ├── Images/
 │   └── dashboard.png
 │
-├── Reports/
+├── Report/
 │   └── Customer Shopping Behavior Analysis.pdf
 │
 └── README.md
+```
 Results
-
 This project demonstrates an end-to-end analytics workflow that combines:
 
 Data Cleaning
