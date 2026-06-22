@@ -1,3 +1,4 @@
+![Dashboard](Images/dashboard.png)
 # Customer Shopping Behavior Analysis
 Project Overview
 
